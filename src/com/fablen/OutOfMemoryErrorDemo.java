@@ -13,7 +13,7 @@ import java.util.List;
  * @date 2020-10-28 15:58
  * @see
  */
-public class OutOfMemoryDemo {
+public class OutOfMemoryErrorDemo {
     public static void main(String[] args) {
         List<Object> objectList = new ArrayList<>();
         while (true) {
