@@ -14,12 +14,16 @@ public class PCRegisterDemo {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
-        float d =10.3f;
+        float d = 10.3f;
         int c = a + b;
 
-        String s ="abc";
+        String s = "abc";
         System.out.println(d);
         System.out.println(s);
         System.out.println(c);
+
+
+        Object obj = new Object();
+        obj = null;
     }
 }

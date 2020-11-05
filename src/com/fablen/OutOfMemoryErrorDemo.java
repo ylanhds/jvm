@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * <p>
- * Description:
+ * Description: -ea -XX:+PrintGCDetails
  * </p>
  *
  * @author fablen
